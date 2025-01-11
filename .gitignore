@@ -1,0 +1,13 @@
+# Exclude virtual environments
+venv/
+
+# Exclude environment variable files
+.env
+
+# Exclude log files
+*.log
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+*.pyo
